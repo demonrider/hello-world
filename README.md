@@ -1,2 +1,3 @@
 # hello-world
-Start to le
+Start to learn and create hello-world in Github.
+
